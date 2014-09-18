@@ -5,7 +5,7 @@ shove them into a slack chat via slack's incoming webhook integration.
 
 ## Usage
 ```bash
-git clone XXX
+git clone https://github.com/RokkinCat/slackfire.git
 cd slackfire
 bundle install
 foreman start
